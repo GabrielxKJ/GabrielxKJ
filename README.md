@@ -1,4 +1,4 @@
-<h1> Hello there, i'm Gabriel Jacques! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Opa, beleza ?, Meu nome é Gabriel Jacques! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+developer;" /></a>
 </p>
 
-- 💼 FullStack Developer in progress
+- 💼 Sou Desenvolvedor Fullstack
   
 <div align="left">
   <a href="https://github.com/GabrielxKJ">
