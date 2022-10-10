@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bem+vindo+ao+meu+perfil+do+GitHub!;Sou+especialista+em+desenvolvimento+web.;" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Bem-vindo+ao+meu+perfil+do+GitHub!;Sou+especialista+em+desenvolvimento+web.;" /></a>
 </p>
 
 - 💼 Sou Desenvolvedor Fullstack
