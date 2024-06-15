@@ -64,6 +64,7 @@
     <img alt="scrum" src="https://img.shields.io/badge/scrum-1572B6?style=for-the-badge">
   </a>
   
+  
   <a href="" target="_blank">
     <img alt="agile methodology" src="https://img.shields.io/badge/agile_methodology-239120?style=for-the-badge">
   </a>
@@ -72,4 +73,5 @@
     <img alt="kanban" src="https://img.shields.io/badge/kanban-CC2927?style=for-the-badge">
   </a>
 
-
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielxKJ&show_icons
