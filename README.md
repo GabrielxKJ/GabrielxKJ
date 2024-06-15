@@ -14,7 +14,7 @@
   <a href="https://github.com/GabrielxKJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielxKJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <h2> Hard skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  <h2> Hard skills  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
 <a href="" target="_blank"> 
     <img alt="html5" src="https://img.shields.io/badge/html_5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
