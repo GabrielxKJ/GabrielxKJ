@@ -47,8 +47,16 @@
   <a href="" target="_blank">
     <img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
+  
+  <a href="" target="_blank">
+    <img alt="node" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 
-  a href="" target="_blank">
+  <a href="" target="_blank">
+    <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+
+  <a href="" target="_blank">
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   </a>
 
