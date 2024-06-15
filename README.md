@@ -7,6 +7,7 @@
 - 💼 Sou Desenvolvedor Fullstack
 - 💪 Atleta nas horas vagas
 - ☕ Adoro um cafézinho não tem jeito
+<br>
 
 <div align="left">
   <a href="https://github.com/GabrielxKJ">
