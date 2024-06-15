@@ -69,9 +69,9 @@
 
 
 <h2> Contato <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="32px"> </h2>
-- **Email:** [gabrielkleber006@gmail.com](mailto:gabrielkleber006@gmail.com)
-- **LinkedIn:** [Gabriel Kleber Jacques](https://www.linkedin.com/in/gabriel-kleber-jacques/)
-
----
+<p>
+  <a href="mailto:gabrielkleber006@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/gabriel-kleber-jacques/">LinkedIn</a> • 
+</p>
 
 ✨ Obrigado por visitar meu perfil! Vamos nos conectar e construir algo incrível juntos! ✨
