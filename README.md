@@ -11,14 +11,15 @@
 
 <div align="left">
   <a href="https://github.com/GabrielxKJ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielxKJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GabrielxKJ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
- <div align="left">
-    <a href="https://github.com/GabrielxKJ">
-    <img height="180em"  width="431em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxKJ&layout=compact&langs_count=100&theme=dracula"/>
-  </div>
+<div align="left">
+  <a href="https://github.com/GabrielxKJ">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxKJ&layout=compact&langs_count=100&theme=dracula"/>
+  </a>
+</div>
 
 <h2> Hard Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
