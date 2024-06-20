@@ -17,7 +17,7 @@
 
  <div>
     <a href="https://github.com/GabrielxKJ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxKJ&layout=compact&langs_count=100&theme=dracula"/>
+    <img height="180em" width="90" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielxKJ&layout=compact&langs_count=100&theme=dracula"/>
   </div>
 
 <h2> Hard Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
